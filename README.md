@@ -40,8 +40,6 @@ Create an AWS Glue ETL job that reads CSV data from the input bucket and writes 
 to the target bucket.
 </p>
 
-<img src="AWS glue  ETL jobs" alt="AWS Glue Job">
-
 <hr>
 
 <h2>Step 3: Define ETL Source</h2>
