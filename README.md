@@ -179,7 +179,18 @@ Once the Glue job finishes successfully, the converted JSON file is stored
 in the target S3 bucket.
 </p>
 
-<img src="job_done.png" alt="Job Completed">
+
+<div style="
+    width: 100%;
+    max-width: 900px;
+    height: 350px;
+    overflow: hidden;
+    border: 1px solid #ccc;
+">
+    <img src="job_done.png" alt="Glue Job Completed"
+         style="width: 100%; margin-top: -120px;">
+</div>
+
 
 <hr>
 
